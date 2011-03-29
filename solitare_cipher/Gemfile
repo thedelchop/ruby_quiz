@@ -1,0 +1,9 @@
+source :rubygems
+
+gem 'mocha'
+gem 'ZenTest'
+gem 'redgreen'
+gem 'autotest-growl'
+gem 'autotest-fsevent'
+gem 'rspec'
+gem 'ruby-debug19'
